@@ -1,6 +1,6 @@
 public class Multiples {
 
-    // This is the modified main logic that returns the count.
+    //returns the count.
     public static int countMultiples(int n, int a, int b) {
         int count = 0;
 
